@@ -5,7 +5,6 @@
  With a strong commitment to creating impactful projects, I thrive in collaborative environments where diverse perspectives come together to drive innovation. I firmly believe that the best solutions are born out of cooperation, not competition. I approach every challenge with an open mind and a willingness to learn from others.
 <hr/>
 
-🌱 I’m currently learning ...
 
 <!--
 **gabivillarec/gabivillarec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
