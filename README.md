@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Villalobos</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<h4> I'm an organized, compassionate, and collaborative individual with a passion for full-stack development.</br> Recently graduated from a rigorous bootcamp, I honed my skills in JavaScript, React-Redux, Sequelize, Express, and more. My journey has taught me the importance of teamwork and giving back to the community.</br></br>
+<h4> I'm an organized, and collaborative individual with a passion for full-stack development.</br> Recently graduated from a bootcamp, I honed my skills in JavaScript, React-Redux, Sequelize, Express, and more. My journey has taught me the importance of teamwork and giving back to the community.</br></br>
 
- With a strong commitment to creating impactful projects, I thrive in collaborative environments where diverse perspectives come together to drive innovation. I firmly believe that the best solutions are born out of cooperation, not competition. I approach every challenge with an open mind and a willingness to learn from others.</h4></br>
+ With a strong commitment to creating projects, I thrive in collaborative environments where diverse perspectives come together to drive innovation. I firmly believe that the best solutions are born out of cooperation, not competition. I approach every challenge with an open mind and a willingness to learn from others.</h4></br>
 
 <h3 align="left">Connect with me:</h3></br>
 <p align="left">
